@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1701271910 source:d:\ds-iti\labs\assignmentsd2\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Stack.h"
+	"Queue.h"
+	"ShiftingQueue.h"
+	"CircularQueue.h"
+
+1701250161 d:\ds-iti\labs\assignmentsd2\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1701250038 d:\ds-iti\labs\assignmentsd2\include\node.h
+
+1701271330 d:\ds-iti\labs\assignmentsd2\include\stack.h
+	<iostream>
+	"StackNode.h"
+
+1701253057 d:\ds-iti\labs\assignmentsd2\include\stacknode.h
+
+1701265800 d:\ds-iti\labs\assignmentsd2\include\queue.h
+	<iostream>
+	"StackNode.h"
+
+1701271910 d:\ds-iti\labs\assignmentsd2\include\shiftingqueue.h
+	<iostream>
+
+1701269936 d:\ds-iti\labs\assignmentsd2\include\circularqueue.h
+	<iostream>
+

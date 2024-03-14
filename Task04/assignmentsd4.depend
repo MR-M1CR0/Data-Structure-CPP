@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701518773 source:d:\ds-iti\labs\assignmentsd4\main.cpp
+	<iostream>
+	"Tree.h"
+
+1701517301 d:\ds-iti\labs\assignmentsd4\include\tree.h
+	<iostream>
+	"Node.h"
+
+1701511882 d:\ds-iti\labs\assignmentsd4\include\node.h
+

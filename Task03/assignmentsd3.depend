@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701357834 source:d:\ds-iti\labs\assignmentsd3\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1701357628 d:\ds-iti\labs\assignmentsd3\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1701340087 d:\ds-iti\labs\assignmentsd3\include\node.h
+
